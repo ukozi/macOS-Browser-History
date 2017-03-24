@@ -10,7 +10,7 @@
 #  Some Modifications To Date/Time by: jc@unternet.net
 #  Modifications for Fidelis Endpoint: lucas@chumley.io
 
-__description__ = 'Chrome History Dumper, based on OS X Auditor'
+__description__ = 'macOS Browser History Dumper, based on OS X Auditor'
 __author__ = 'Lucas J. Chumley'
 __version__ = '0.0.9'
 
